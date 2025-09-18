@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "test"
+  },
+  {
+    "id": "2",
+    "title": "adsadas",
+    "description": "asdasdas",
+    "code": "dasd",
+    "price": 1231,
+    "status": "dasd",
+    "stock": 1312321,
+    "category": "dasd",
+    "thumbnails": [
+      "asda"
+    ]
+  }
+]
